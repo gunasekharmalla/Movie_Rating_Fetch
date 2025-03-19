@@ -61,6 +61,10 @@ Open http://localhost:3000 to view the app in your browser.
 7. 🖼️ Screenshots
 
 <img width="873" alt="image" src="https://github.com/user-attachments/assets/2b398b7a-e51f-4a9e-ab34-3a098fb15962" />
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/9a3169e1-6d5d-45f4-84b7-94522d825698" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/8c7e7834-50fb-409c-a11f-4d51c3647b81" />
+
+
 
 🌐 API Reference
 
