@@ -33,7 +33,7 @@ Follow these steps to install and run the project locally:
 
 1. Clone the Repository:
 
-git clone https://github.com/your-username/movie-rating-app.git
+git clone https://github.com/gunasekharmalla/Movie-Rating-Fetch.git
 
 2. Navigate to the Project Directory:
 
@@ -49,7 +49,7 @@ Create a .env file in the root directory.
 
 Add your API key using the following format:
 
-REACT_APP_API_KEY=your_api_key_here
+REACT_APP_API_KEY = your_api_key_here
 
 5. Start the Application:
 
