@@ -33,7 +33,7 @@ Follow these steps to install and run the project locally:
 
 1. Clone the Repository:
 
-git clone https://github.com/gunasekharmalla/Movie-Rating-Fetch.git
+git clone https://github.com/gunasekharmalla/Movie_Rating_Fetch.git
 
 2. Navigate to the Project Directory:
 
